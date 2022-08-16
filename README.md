@@ -1,1 +1,1 @@
-ghsojface
+These are the school notes for my 12th year of high school, in the form of markdown files for each class.
