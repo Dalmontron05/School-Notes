@@ -13,3 +13,13 @@ Slope = $$\frac{y_2 - y_1}{x_2 - x_1}$$
 - *Tables*: The value between entries in the table are the same in their respective columns
 
 ### Non-Linear
+Given a function $$y = f(x)$$ the average rate of change of $$f$$ from $$a$$ to $$b$$ is defined as
+$$\frac{change in  y}{change in x}=\frac{f(b) - f(a)}{b - a}$$
+
+> This is pretty similar to the linear slope function where instead of $$x$$ and $$y$$, it's now $$a$$ and $$b$$ Now though, you're finding the average change in slope. ![](https://imgur.com/QqFgsoJ.png)
+
+You first find the two points you need by plugging in their $$x$$'s in the function to determine the missing $$y$$'s. Then, you find the slope by subtracting the $$y$$'s and $$x$$'s. Lastly, you use point slope form: $$y - y_1 = m(x - x_1)$$
+![](https://imgur.com/HsvlmZ4.png)
+
+here's an example with variables
+![](https://imgur.com/hrNpIvj.png)
