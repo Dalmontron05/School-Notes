@@ -12,7 +12,7 @@ The beginning blob before the articles of the constitution were aimed to establi
 
 **Amendment XXIV:** The right to vote even with failure to pay taxes.
 
-### Checks and Balances
+### Seperation of Powers
 -  ** Executive Branch**
 Enforces the laws. This branch makes sure those who make sure that those who don't obey the law are reprimanded. This comes in the form of law enforcement like police and agencies like the FBI.
 - ** Legislative Branch**
@@ -37,7 +37,11 @@ Interprets the laws. This branch reads our constitution and current laws and app
 #### Article V
 > Amendments can be proposed to the constitution if two thirds of congress agree. Amendments cannot be made if it makes changes to the ninth section of the first article or if it deprives a state of their equal representation in the senate.
 
+#### Article VI
+> Debts and engagements before the constitution was established are still valid. All judges are bound to the constitution, it is considered the law above laws. All senators and representatives are bound to suppor the constituion. Religion will never play a part in who can qualify in anywhere.
 
+#### Article VII
+> Unanimously, the representatives of all states agree to this boundment to the constition of the United States of America.
 
 
 
