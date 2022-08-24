@@ -1,5 +1,8 @@
 ## Creating a Constitutional Visual Organizer
 
+THIS IS A MARKDOWN FILE, in order to view properly you must use a markdown viewer. a good online viewer is Editor.md , copy and past this text into the website to view this properly.
+http://editor.md.ipandao.com/en.html
+
 [TOC]
 
 ### Goals of the Preamble
@@ -42,7 +45,6 @@ Interprets the laws. This branch reads our constitution and current laws and app
 
 #### Article VII
 > Unanimously, the representatives of all states agree to this boundment to the constition of the United States of America.
-
 
 
 
