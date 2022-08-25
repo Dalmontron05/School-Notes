@@ -23,3 +23,5 @@ You first find the two points you need by plugging in their $$x$$'s in the funct
 
 here's an example with variables
 ![](https://imgur.com/hrNpIvj.png)
+
+For using your average rate of change from one question in another question, they both must be the same function and start from the same $$x_1$$
