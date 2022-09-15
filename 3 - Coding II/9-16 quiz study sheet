@@ -4,21 +4,33 @@ THIS IS A MARKDOWN FILE, in order to view it properly, you must use a markdown v
 
 [TOC]
 
+------------
+
 ### Valid Method Names
 - can't start with a number -> 34myMethod()
 - can't have a space  -> my method()
 - can't be a reserved word -> int()
 
 
-### Arithmetic expressions in Java (order of operations)
-#### Modulo Division
+### Arithmetic expressions in Java (Order of Operations)
+- Addition -> **+**
+- Subtraction -> **-**
+- Multiplication -> *****
+- Division -> **/**
+- **Modulus** (Remainder) -> **%**
+- Parentheses (Order of Operations) -> **()**
 5%3 = 2
 
 
 ### Primitive Types in Java : 
-- int
-- double
-- boolean
+Only bolded words are on the test
+
+- **int**
+- **double**
+- **boolean**
+- char
+- float
+- long
 
 
 ### Logical Operators
