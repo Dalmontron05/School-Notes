@@ -18,7 +18,7 @@ THIS IS A MARKDOWN FILE, in order to view it properly, you must use a markdown v
 - Multiplication -> *****
 - Division -> **/**
 - **Modulus** (Remainder) -> **%**
-- Parentheses (Order of Operations) -> **()**
+- **Parentheses **(Order of Operations) -> **()**
 5%3 = 2
 
 
@@ -38,7 +38,15 @@ AND, OR, NOT -> &&, ||, !
 
 
 ### How to cast
+Used to change into different data types
 
+    int total = 100;
+    int numPeople = 40;
+    double average = total / (double) numPeople;
+> **Output:**
+Total: 100
+People: 40
+Average: 2.5
 
 
 
