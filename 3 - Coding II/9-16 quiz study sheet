@@ -1,0 +1,49 @@
+## 9-16 Quiz Study Sheet
+
+THIS IS A MARKDOWN FILE, in order to view it properly, you must use a markdown viewer. a good online viewer is Editor.md , copy and paste this text (ctrl + A) into the website to view this properly. http://editor.md.ipandao.com/en.html
+
+[TOC]
+
+### Valid Method Names
+- can't start with a number -> 34myMethod()
+- can't have a space  -> my method()
+- can't be a reserved word -> int()
+
+
+### Arithmetic expressions in Java (order of operations)
+#### Modulo Division
+5%3 = 2
+
+
+### Primitive Types in Java : 
+- int
+- double
+- boolean
+
+
+### Logical Operators
+AND, OR, NOT -> &&, ||, !
+
+
+### How to cast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
