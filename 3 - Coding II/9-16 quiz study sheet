@@ -13,6 +13,7 @@ THIS IS A MARKDOWN FILE, in order to view it properly, you must use a markdown v
 
 
 ### Arithmetic expressions in Java (Order of Operations)
+**Modulus is *valued the same* as multiplication/division in PEMDAS**
 - Addition -> **+**
 - Subtraction -> **-**
 - Multiplication -> *****
