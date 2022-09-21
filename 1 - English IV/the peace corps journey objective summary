@@ -1,4 +1,5 @@
 ## Objective Summary: "The Peace Corps Journey"
+
 THIS IS A MARKDOWN FILE, in order to view it properly, you must use a markdown viewer. a good online viewer is Editor.md , copy and paste this text (ctrl + A) into the website to view this properly.
 http://editor.md.ipandao.com/en.html
 
@@ -7,10 +8,12 @@ http://editor.md.ipandao.com/en.html
 ------------
 
 ### Chunking the Text
-Key ideas and details are bolded. Unknown words are code blocked.
+Key ideas and details are bolded. Unknown words are bolded with a superscripted number
 
 #### 1: Beginning Blurb
->Can you imagine going to a school where your desk and the chalkboard are not in a classroom? How about waking up to a breakfast of fried spaghetti and boiled plantains? Would you like to learn to say “What’s up?” in Swahili? Many **Peace Corps volunteers** experience these things every day, **all across the globe.**
+>Can you imagine going to a school where your desk and the chalkboard are not in a classroom? How about waking up to a breakfast of fried spaghetti and boiled **plantains<sup>1</sup>?** Would you like to learn to say “What’s up?” in Swahili? Many **Peace Corps volunteers** experience these things every day, **all across the globe.**
+
+1: **Plantains** - A type of fruit similar to bannanas. Usually thicker, tougher, sweeter, and starchier.
 
 #### 2: Background
 > The first lesson **Americans** learn when they travel to the Philippines, Mongolia, Honduras, or 68 other countries to start work as volunteers is that life is very different around the world. Today, **more than 7,500 Americans are serving as Peace Corps volunteers.** Some teach students your age how to read and write in English. Others **teach groups of women how to use computers to sell their handmade crafts over the Internet.** Still other Peace Corps volunteers show communities **how to start recycling centers.** The types of projects volunteers work on differ as much as the jobs your parents and friends’ parents do. These projects **require some training, hard work, and a lot of learning** on the part of everyone — the Peace Corps volunteer and the community — to make them successful. 
@@ -31,8 +34,28 @@ Key ideas and details are bolded. Unknown words are code blocked.
 > And after finishing their two years in the Peace Corps, **most volunteers continue to use their skills to serve others.** **Many famous Americans got their start as Peace Corps volunteers.** Some have even gone on to become congressmen and senators, governors, diplomats, educators, doctors, writers, journalists, and more. Just this year, a former Peace Corps volunteer became an astronaut.
 
 #### 6: Localized Application
-> Although you might still be too young to apply to become a Peace Corps volunteer, you **can still help others at home and in your community by volunteering**. Start now by helping your neighbors with their yards or by getting your class to clean up a park. Helping others makes us feel good and lets us learn about ourselves, too. Later, the Peace Corps and the world will be waiting for you to share your skills and talents with others. Then you can start out on a journey of a lifetime as a Peace Corps volunteer.
+> Although you might still be too young to apply to become a Peace Corps volunteer, you **can still help others at home and in your community by volunteering**. Start now by helping your neighbors with their yards or by getting your class to clean up a park. Helping others makes us feel good and lets us learn about ourselves, too. Later, the Peace Corps and the world will be waiting for you to **share your skills and talents with others.** Then you can start out on a journey of a lifetime as a Peace Corps volunteer.
 
 ------------
 
 ### Sectioned Summary
+#### 1: Beginning Blurb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
