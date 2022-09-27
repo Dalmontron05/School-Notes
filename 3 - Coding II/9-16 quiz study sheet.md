@@ -19,7 +19,7 @@ THIS IS A MARKDOWN FILE, in order to view it properly, you must use a markdown v
 - Multiplication -> *****
 - Division -> **/**
 - **Modulus** (Remainder) -> **%**
-- **Parentheses **(Order of Operations) -> **()**
+- **Parentheses** (Order of Operations) -> **()**
 5%3 = 2
 
 
