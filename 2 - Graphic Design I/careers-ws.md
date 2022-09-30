@@ -1,5 +1,10 @@
 ## Research a Career Worksheet
 
+[TOC]
+
+------------
+
+
 ### Career List
 - Video Game Developer
 - Video Game Designer
@@ -30,8 +35,17 @@ NAU - Northern Arizona University | Bachelor of Science - Software Engineering |
 
 ### Job Opportunities
 #### Video Game Developer
-
-
+1. Name of Company - Video Yo
+2. Job Title - Unity Game Developer
+3. Brief Description of the Job - Meeting with the design team to discuss game concepts; Coding the base engine of the game; Generating game scripts and storyboards
+4. Required Education - Degree in software engineering or computer science
+a. Name of company
+b. Job Title
+c. Brief description of the job
+d. Required education
+e. Required skills
+f. Required experience
+g. Salary/Pay
 
 
 
