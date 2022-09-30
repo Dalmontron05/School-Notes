@@ -1,6 +1,6 @@
 ## Research a Career Worksheet
 
-[TOC]
+__TOC__
 
 ------------
 University of Arizona (UOA), 
