@@ -8,10 +8,15 @@
 Video game designers create concepts of a video game, and help design those concepts into reality. They are resposible for the creation of what makes up a game, to it's core. Gameplay features such as: level design, character models, storylines, user interface, and much more.
 
 **2. What are the education and training requirements for the occupation?**
+55% of the time, you will need a bachelors degree in computer science or related fields for job openings. That is a big difference from the 15% of respondents who were able to get by with just a high school diploma.
 
 **3. List other required qualifications such as licensing, certifications, etc.**
 
 **4. What is the low to high wage or annual salary for this occupation?**
+
+Low  | Mid | High
+------------- | ------------- | -------------
+~$38,550  | ~$79,890 | ~$168,200
 
 **5. What is the employment outlook for this occupation for the next 10 years?**
 
