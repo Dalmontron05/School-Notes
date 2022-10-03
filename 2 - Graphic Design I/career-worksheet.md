@@ -1,4 +1,5 @@
 ## Worksheet #1: Career Research
+www.onetonline.org
 
 [TOC]
 
@@ -19,16 +20,37 @@ Low  | Mid | High
 ~$38,550  | ~$79,890 | ~$168,200
 
 **5. What is the employment outlook for this occupation for the next 10 years?**
+Employment is looking very good for video game designers. From 2020-2030, employment is predicted to grow 10-15%. That would mean an additional 17,900 job openings 
 
 **6. List 5 or more technology skills “Tools used” that are needed for this profession.**
+- Desktop Computers
+- Notebook Computers
+- Tablet Computers
+- Mobile Phones
+- Fixed Computer Gaming Console
 
 **7. What are the work activities for this career? (professional skills)**
+- The ability to interface with a data base
+- Access and experience with development enviroment software
+- Access and experience with video creation and editing software
+- Access and experience with graphics or photo editing software
+- Access and experience with project management software
 
 **8. List other occupations that are similar or related using the same skill sets.**
+- Graphic Designers
+- Computer Programmers
+- Computer Hardware Engineers
+- Web Developers
+- Web and Digital Interface Designers
+- Film and Video Editors
 
 **9. Is this occupation available in your area? List companies or other places of employment in your area in which this occupation is located.**
+Yes. Due to the nature of the job this career can often be undertaken online. Not only that, but it's a fast growing industry with various startups located on pretty much every street corner.
 
 **10. What school subjects (high school) or courses (college) would help you to prepare for this occupation?**
+- Computer Science
+- Graphic Design
+- Communications and Media
 
 **11. Does this occupation deal mainly with people, data, things or ideas? Please explain your answer.**
 
