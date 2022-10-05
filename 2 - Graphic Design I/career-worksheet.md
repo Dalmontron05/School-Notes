@@ -17,6 +17,8 @@
     - [13. What exactly you would be doing on a daily basis for this career. (example: design layouts for print publications, confer with clients, create computer generated graphics, etc.)](#13-what-exactly-you-would-be-doing-on-a-daily-basis-for-this-career-example-design-layouts-for-print-publications-confer-with-clients-create-computer-generated-graphics-etc)
     - [14. What are the percentage of daily duties that you would be doing each day. (example: creating: 55%, checking email: 100%, etc.) Include description of each.](#14-what-are-the-percentage-of-daily-duties-that-you-would-be-doing-each-day-example-creating-55-checking-email-100-etc-include-description-of-each)
 
+https://slidesgo.com/theme/pretty-aesthetic-notes-for-school#position-3&results-9736
+
 ------
 
 ### Title of Occupation: Video Game Designer
