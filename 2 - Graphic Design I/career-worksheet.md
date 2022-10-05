@@ -30,6 +30,7 @@ Video game designers create concepts of a video game, and help design those conc
 
 
 #### 3. List other required qualifications such as licensing, certifications, etc.
+None that seem to be universally specified.
 
 
 #### 4. What is the low to high wage or annual salary for this occupation?
