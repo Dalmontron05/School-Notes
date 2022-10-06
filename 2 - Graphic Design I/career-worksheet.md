@@ -18,6 +18,7 @@
     - [14. What are the percentage of daily duties that you would be doing each day. (example: creating: 55%, checking email: 100%, etc.) Include description of each.](#14-what-are-the-percentage-of-daily-duties-that-you-would-be-doing-each-day-example-creating-55-checking-email-100-etc-include-description-of-each)
 
 https://slidesgo.com/theme/pretty-aesthetic-notes-for-school#position-3&results-9736
+https://www.onetonline.org/link/details/15-1255.01
 
 ------
 
