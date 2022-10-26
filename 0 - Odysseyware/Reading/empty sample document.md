@@ -1,1 +1,0 @@
-reminder to actually ask mr. pratt to put you into the course when it starts, so you aren't placed halfway through and have to do catch-up.
