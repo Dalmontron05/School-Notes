@@ -1,4 +1,8 @@
 ## Create a Goverment Project - Daljeet Singh
+### Country name, flag, motto
+Name: **Ravilste**
+Motto: **Make like a Raven and fly your ass over here**
+
 ### Organization of Government
 > There is three layers to government: Federal, Local, and Interpal. The country is split into various states, with further distinction of countries with cities within them. Representatives are voted for by citizens, of citizens for positions within government. There are three bodies in the highest form of government: Senate, House of Representatives, Emause of All. The Senate has equal members from all states. The Houses members vary from each state depending on population. The Emause is the mass collection of anyone considered a citizen and not within certain roles of the other two branches of government. 
 
@@ -29,6 +33,9 @@ The Judicial branch is responsible for the interpretation of the law. They decid
 
 ### Checks and Balances
 > All branches have a way of controlling each other should the need ever arise. Members of the executive branch can be tried for any severe unjust actions they make. Judicial members can be thrown out for nonsensical decision-making by their peers or other branches. Legislative branch members can also be thrown out by their peers for nonsensical decisions, but can be tried by the Judicial branch if
+
+### Taxes
+> The taxation of all residents will be dependent on many factors such as their economic status, living conditions, and value of currency in their state. The only universal tax inflicted upon everyone will be income tax, but there are additional taxes that my be applicable to residents such as sins tax and importage tax.
 
 
 
