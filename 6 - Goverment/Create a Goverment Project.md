@@ -2,6 +2,7 @@
 ### Country name, flag, motto
 Name: **Ravilste**
 Motto: **Make like a Raven and fly your ass over here**
+Flag: ![](https://raw.githubusercontent.com/Dalmontron05/School-Notes/main/6%20-%20Goverment/flag%20momfent.png)
 
 ### Organization of Government
 > There is three layers to government: Federal, Local, and Interpal. The country is split into various states, with further distinction of countries with cities within them. Representatives are voted for by citizens, of citizens for positions within government. There are three bodies in the highest form of government: Senate, House of Representatives, Emause of All. The Senate has equal members from all states. The Houses members vary from each state depending on population. The Emause is the mass collection of anyone considered a citizen and not within certain roles of the other two branches of government. 
@@ -36,7 +37,6 @@ The Judicial branch is responsible for the interpretation of the law. They decid
 
 ### Taxes
 > The taxation of all residents will be dependent on many factors such as their economic status, living conditions, and value of currency in their state. The only universal tax inflicted upon everyone will be income tax, but there are additional taxes that my be applicable to residents such as sins tax and importage tax.
-
 
 
 
